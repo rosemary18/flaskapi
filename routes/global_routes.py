@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template
+from flask import Blueprint, render_template 
 
 global_routes = Blueprint('global_routes', __name__)
 
